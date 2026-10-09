@@ -1,6 +1,6 @@
 # Cah Menezes 🌱
 
-Analista com 4 anos organizando processo e resolvendo problema antes que vire incêndio — em operações e projetos de tecnologia.
+Analista com 4 anos organizando processo e resolvendo problema antes que vire incêndio em operações e projetos de tecnologia.
 
 Hoje estou colocando nome técnico no que sempre fiz: automatizando com Python, documentando o que importa e construindo portfólio público enquanto aprendo.
 
