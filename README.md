@@ -1,6 +1,6 @@
 # Cah Menezes 🌱
 
-Analista com 4 anos organizando processo e resolvendo problema antes que vire incêndio em operações e projetos de tecnologia.
+Analista com 4 anos organizando processo e resolvendo problema antes que vire incêndio — em operações e projetos de tecnologia.
 
 Hoje estou colocando nome técnico no que sempre fiz: automatizando com Python, documentando o que importa e construindo portfólio público enquanto aprendo.
 
@@ -39,6 +39,6 @@ Hoje estou colocando nome técnico no que sempre fiz: automatizando com Python, 
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cah-menezes&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cah-menezes&show_icons=true&include_all_commits=true&count_private=false&bg_color=EEF3F8&title_color=1D2B53&text_color=5A6E8C&icon_color=8C9BB8&border_color=C8D4E8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cah-menezes&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cah-menezes&layout=compact&bg_color=EEF3F8&title_color=1D2B53&text_color=5A6E8C&border_color=C8D4E8)
